@@ -2,3 +2,6 @@ ipykernel
 jupyter
 notebook
 black
+fastapi
+uvicorn
+pydantic
