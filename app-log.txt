@@ -9,3 +9,12 @@
 [2022-05-22 12:25:28,909] INFO : Waiting for application shutdown.
 [2022-05-22 12:25:28,909] INFO : Application shutdown complete.
 [2022-05-22 12:25:28,910] INFO : Finished server process [14744]
+[2022-05-22 13:38:15,658] INFO : Application is starting up...
+[2022-05-22 13:38:15,658] DEBUG : # of  records in database now : 3 
+[2022-05-22 13:42:45,445] INFO : Application is starting up...
+[2022-05-22 13:42:45,445] DEBUG : # of  records in database now : 3 
+[2022-05-22 13:42:45,743] DEBUG : Using selector: KqueueSelector
+[2022-05-22 13:42:45,765] INFO : Started server process [1323]
+[2022-05-22 13:42:45,766] INFO : Waiting for application startup.
+[2022-05-22 13:42:45,767] INFO : Application startup complete.
+[2022-05-22 13:42:45,768] INFO : Uvicorn running on http://127.0.0.1:8080 (Press CTRL+C to quit)
