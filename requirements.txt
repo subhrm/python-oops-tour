@@ -2,6 +2,10 @@ ipykernel
 jupyter
 notebook
 black
+flake8
 fastapi
 uvicorn
 pydantic
+pytest
+pytest-cov
+coverage

@@ -1,5 +1,4 @@
 import sqlite3
-from unittest import result
 from fuel_price_api.data_models.fuel_details import FuelDetails
 from typing import List
 

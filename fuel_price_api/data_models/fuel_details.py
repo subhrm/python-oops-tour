@@ -1,6 +1,5 @@
-from bdb import effective
 from pydantic import BaseModel
-from datetime import datetime
+# from datetime import datetime
 
 class FuelDetails(BaseModel):
     location:str = "location"
